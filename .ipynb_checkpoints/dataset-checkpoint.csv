@@ -1,0 +1,1026 @@
+Student_ID,Gender,Age,Study_Hours,Attendance_Percentage,Sleep_Hours,Family_Support,Internet_Access,Extracurricular_Activities,Stress_Level,Previous_Scores,Final_Score
+1528,FEMALE ,17,10,85,5,No ,No ,No,Medium,63,66
+1360,FEMALE ,21,12,75,10,None ,yes ,No, low ,83,78
+1448,FEMALE ,-1,18,,9,None ,None ,Yes, low ,49,
+1032,Female ,22,4,90,7,NO ,yes ,, low ,34,69
+1622,FEMALE ,35,2,40,5,Y , no  ,No,,37,-5
+1591,None ,17,6,90,, yes  ,No ,yes,HIGH,40,53
+1906,MALE ,20,10,50,3,No , no  ,Yes,,65,74
+1738,Female ,35,7,55,8, yes  ,None ,,,47,47
+1077,Female ,,10,65,10,NO , no  ,yes, low ,65,48
+1949, male  ,19,3,80,9, yes  ,Yes ,Yes,High,93,-5
+1433,Male ,-1,6,65,4,NO , no  ,yes,Medium,91,45
+1071,None ,19,2,70,4,NO , no  ,yes,Medium,76,97
+1681,Female ,21,8,80,2,Y ,Yes ,Yes,Medium,,65
+1102,Male ,21,9,95,5,No ,No ,Yes,Low,43,73
+1846,None ,17,10,55,2,Y ,Y ,No,High,35,84
+1657, male  ,18,3,,6,Y ,Y ,yes,Low,82,75
+1311, male  ,-1,9,80,4,Yes , no  ,yes,Medium,87,67
+1345,FEMALE ,22,3,80,10, yes  ,yes ,,Medium,48,90
+1838,Male ,17,2,55,9, yes  ,yes ,Yes,Low,74,39
+1175, male  ,35,1,85,7,Yes ,Yes ,Yes,Medium,55,99
+1097,FEMALE ,,8,65,10,NO ,Y ,No,Low,50,-5
+1823,Female ,19,4,50,4,Yes ,Yes ,Yes, low ,55,75
+1599, male  ,19,5,150,3,Yes ,Yes ,,Medium,52,93
+1219,Female ,20,6,85,9, yes  ,Yes ,, low ,57,97
+1421,None ,,10,40,4, yes  ,yes ,Yes,Medium,81,98
+1209,None ,17,,65,3,NO ,Yes ,Yes,High,79,78
+1775,Male ,20,4,70,10,Y ,Yes ,,High,63,94
+1291,None ,18,6,65,6,Y ,No ,No,High,36,44
+1890,FEMALE ,-1,6,55,, yes  ,Yes ,No,Medium,54,77
+1671,FEMALE ,,9,50,3, yes  ,Y ,,Medium,85,78
+1904,FEMALE ,-1,9,60,,No ,No ,, low ,87,77
+1412,FEMALE ,21,1,80,2,Yes ,Yes ,Yes,HIGH,68,62
+1637,FEMALE ,20,9,55,4,Y ,Y ,, low ,66,92
+1330,None ,18,5,80,10, yes  ,Yes ,, low ,51,68
+1738,Female ,35,7,55,8, yes  ,None ,,,47,47
+1763, male  ,21,3,,4,None ,Yes ,,Medium,100,61
+1491,None ,-1,3,40,9,Y ,No ,No,Medium,71,51
+1351,Male ,17,7,150,6, yes  ,Y ,Yes,,98,53
+1501,Male ,35,7,70,2,NO , no  ,No,Low,45,77
+1308,Female ,22,2,70,5,NO ,No ,yes,HIGH,100,58
+1854, male  ,,2,90,4, yes  ,No ,, low ,93,
+1352,FEMALE ,21,5,40,5,Yes ,Y ,yes,High,46,55
+1644,None ,20,7,40,8,None ,No ,No,Medium,35,67
+1440,None ,18,18,40,8,No ,No ,No,,31,43
+1820,Female ,,15,40,7,NO , no  ,Yes,Medium,61,91
+1834,MALE ,17,1,70,9,No ,Y ,Yes, low ,30,51
+1519,FEMALE ,35,8,100,2,NO ,Y ,No,HIGH,80,85
+1555,Female ,18,,,6,Yes ,Yes ,, low ,91,62
+1290,FEMALE ,18,15,80,4,No ,Yes ,No,High,66,92
+1293,FEMALE ,21,12,70,,Y ,No ,Yes,Medium,68,73
+1214,Male ,35,7,150,5,None ,Y ,No,High,92,44
+1967,,22,12,100,6,,yes,,HIGH,33,76
+1060,FEMALE,-1,15,100,,Y,Y,No,High,83,54
+1693,,17,3,95,,Yes,No,No,High,41,47
+1322,Male,,7,85,5,Yes, no ,yes,,,43
+1011,FEMALE,19,7,70,,, no ,, low ,95,51
+1332,,20,15,100,8, yes ,Y,Yes,HIGH,77,49
+1335,,18,4,85,5,No, no ,,Medium,35,86
+1919,Female,,3,110,,Y,Y,, low ,68,-5
+1087,Male,18,,85,, yes ,Y,yes,HIGH,98,86
+1333,MALE,,4,90,6,Yes,,,Low,31,40
+1744,MALE,,18,55,8,,yes,Yes,HIGH,60,67
+1451, male ,35,7,90,2,NO,No,No,,-10,66
+1469,,21,3,65,8, yes ,Yes,No,Medium,37,91
+1306,Female,19,,110,5,Yes,,,,52,74
+1031, male ,21,5,70,9,Yes, no ,yes,Medium,87,62
+1559, male ,17,,95,7,,,yes,Low,83,71
+1406,FEMALE,,10,110,7,No, no ,Yes,High,54,52
+1055,Female,17,5,70,7,No, no ,,High,64,100
+1024,Female,-1,18,65,6, yes , no ,Yes,Low,89,75
+1762,Female,22,10,55,,Y,yes,Yes,High,79,71
+1482, male ,20,6,95,6,Y,Yes,, low ,67,66
+1004,MALE,22,1,80,10,NO,,Yes,HIGH,99,64
+1232,FEMALE,19,8,100,9, yes ,Yes,yes,High,98,93
+1356,,19,,60,5, yes ,No,Yes,,38,62
+1674,Female,20,1,85,10,,No,yes,HIGH,45,89
+1757,MALE,19,12,40,2, yes ,,No,High,44,85
+1844, male ,21,5,110,5,NO,Yes,No, low ,68,90
+1668,FEMALE,-1,,40,3,NO,No,yes,High,68,56
+1216, male ,20,3,40,8,NO,,Yes,HIGH,82,46
+1635, male ,20,,95,3,Y, no ,Yes,HIGH,99,69
+1319,MALE,18,,70,4,Y,Y,Yes,High,48,91
+1987,Male,18,4,100,5,NO,Yes,No,High,44,66
+1353,FEMALE,18,18,150,4,Y,No,yes,Medium,37,58
+1716,FEMALE,22,1,90,6, yes ,yes,Yes,HIGH,54,60
+1395,Female,19,2,100,2,NO, no ,,,94,75
+1199, male ,19,9,100,7,Yes,Y,Yes,High,67,72
+1595,FEMALE,18,,95,7,Y,Yes,No, low ,92,46
+1864, male ,17,9,,3,No,,, low ,53,75
+1925,Male,22,10,75,6,Y,,No,Low,33,94
+1040,FEMALE,17,9,40,8,,Y,,HIGH,31,88
+1791,Male,22,,150,6, yes ,yes,,Medium,53,43
+1315,Male,19,3,85,,No,yes,yes, low ,77,96
+1762,Female,22,10,55,,Y,yes,Yes,High,79,71
+1581,Female,,8,55,10,NO,Yes,,High,65,84
+1067,Female,21,18,85,5, yes ,Y,yes,HIGH,79,76
+1718,Female,18,4,100,,No,Yes,Yes,Medium,80,38
+1068,FEMALE,-1,9,65,,NO,yes,yes,High,45,92
+1295,Male,18,2,85,4,Y, no ,No,,82,64
+1922,Male,,7,80,7,No,No,Yes,Medium,50,38
+1465,Female,19,,55,4,Yes,,,,96,93
+1108, male ,22,7,50,4,No, no ,yes,High,52,44
+1630,Female,17,10,110,,,No,, low ,58,81
+1577, male ,20,12,150,9,Yes,Y,Yes,Medium,100,43
+1255,Female,35,9,65,6,Yes, no ,,Low,59,57
+1724,,17,9,60,2,Y,yes,Yes,High,65,50
+1930,Male,18,8,80,9, yes ,No,Yes,Medium,63,61
+1540, male ,-1,8,60,,Y,Yes,Yes,,59,64
+1916,Female,,15,150,4,NO,,,High,71,67
+1526,Female,18,,90,3,No,Y,No,Low,83,65
+1544,FEMALE,,,40,8,,Y,Yes, low ,47,71
+1755,FEMALE,21,6,60,7,No,Y,Yes,Low,85,-5
+1101,MALE,18,3,,8,Yes, no ,yes,Low,87,60
+1089,MALE,-1,4,,6,Y,Y,Yes,,84,38
+1064,,17,9,,3,NO,Y,No,High,98,88
+1849,,-1,,50,7,No,Y,Yes,High,98,79
+1894, male ,18,6,,, yes ,Yes,yes,Medium,38,65
+1140,Male,19,,60,10,, no ,yes,Medium,35,49
+1604,MALE,22,1,65,6,No, no ,Yes,High,60,91
+1621,MALE,20,12,60,8,Yes,No,yes,High,100,
+1543,MALE,19,10,40,,Yes,Y,Yes,,39,61
+1495,MALE,22,4,75,4,No,,,HIGH,35,51
+1590,Male,18,3,95,2,NO,Yes,,High,53,87
+1110, male ,19,18,80,9,NO, no ,No,High,62,48
+1963,Male,18,12,55,4,Y,yes,, low ,-10,100
+1248,MALE,19,2,100,2,NO,No,No,,44,48
+1923,Female,20,5,50,,Y,Yes,yes, low ,94,43
+1698,Male,19,,70,5,Y,yes,,Low,69,58
+1487,,21,9,90,6,Y,Y,yes,Low,89,63
+1137,Female,21,3,150,,NO,Y,yes,,46,57
+1933,Male,35,6,95,6,No,No,No,Medium,90,85
+1689,Male,18,8,,7,Yes,,Yes,Low,96,86
+1759, male ,22,3,40,,,yes,Yes,Medium,67,90
+1159,,-1,15,80,2,Yes,,,HIGH,100,89
+1494,FEMALE,21,,85,10, yes ,yes,,,47,95
+1502,,20,,95,5,NO,yes,, low ,37,91
+1683,,18,10,65,4,No,No,Yes,HIGH,75,80
+1974,FEMALE,20,15,55,9,,,No,HIGH,72,76
+1257, male ,17,6,60,4,NO,Yes,No,Low,99,48
+1735,Female,-1,,55,, yes ,No,Yes,Medium,60,50
+1858,Male,35,10,50,5, yes ,Yes,,High,62,95
+1960,MALE,21,9,85,5,Y,,No, low ,46,66
+1618,Male,18,,95,8, yes ,,Yes, low ,50,66
+1984,FEMALE,19,2,90,,Yes,Yes,,High,77,91
+1902,MALE,-1,2,80,,Yes,Yes,,Low,70,120
+1211, male ,18,10,60,9,Yes,No,yes,,,67
+1169,FEMALE,35,6,150,7,No,Y,yes,Low,92,88
+1940,Female,21,8,40,7,No,,,Low,57,100
+1441,MALE,35,3,100,5,Y,,,Low,42,45
+1372,MALE,22,18,65,9,Yes,yes,No,Medium,68,95
+1546,Female,,7,60,7,, no ,yes,,88,69
+1056,MALE,21,1,50,7,,,Yes,High,34,75
+1121,Female,17,8,75,3, yes ,No,,High,54,100
+1617,FEMALE,18,5,110,9,No,No,,HIGH,66,78
+1026,MALE,19,8,150,3,Yes,,yes,High,40,81
+1073,Female,17,7,100,2,No,Y,,,38,42
+1533, male ,-1,,80,4, yes , no ,No, low ,85,38
+1045,MALE,17,1,90,6,Yes,Yes,No, low ,96,89
+1297,,35,7,55,8, yes ,,,Medium,54,120
+1200,,22,5,75,3,Y,,Yes,,52,99
+1754,MALE,35,18,80,3,No,No,yes,Medium,96,51
+1794,FEMALE,19,15,,,Y, no ,yes,Medium,53,51
+1486,MALE,17,8,,2,Y, no ,No,Medium,73,94
+1210,Female,22,7,110,8,NO,Yes,No,,43,-5
+1266,Male,21,4,85,3,No,No,,High,47,53
+1378,,19,5,55,2,No,Y,No,Medium,83,49
+1895,MALE,17,,40,, yes , no ,No,,89,63
+1789,Male,18,9,55,3,,yes,yes,,65,55
+1529,Male,-1,9,70,10,Y,yes,No,,100,87
+1452,Male,-1,12,50,6,,No,yes,HIGH,52,98
+1596,Male,-1,7,110,7,Yes,,No,Medium,97,57
+1746,FEMALE,22,2,,8,NO,No,Yes,HIGH,39,98
+1966,Female,35,3,50,5,, no ,Yes,,30,100
+1527, male ,18,15,95,,, no ,yes,High,73,66
+1307,,20,12,55,3,Yes,Y,,Low,90,78
+1320,FEMALE,,,70,9,,No,,,68,43
+1061,FEMALE,22,7,85,6,Yes,Yes,No,HIGH,32,48
+1483,MALE,18,15,40,6,Y,yes,Yes,HIGH,67,37
+1855, male ,21,5,100,7,Yes,No,Yes,HIGH,91,48
+1616, male ,-1,10,110,5,Y,No,Yes,HIGH,68,120
+1542,MALE,,3,80,7,,No,No,High,88,77
+1429,,21,7,40,5,No,yes,,Medium,93,38
+1185,Male,,1,150,7,NO, no ,,Medium,60,75
+1882, male ,20,18,40,7,Yes,,Yes,,86,40
+1983,Male,20,8,75,6,Yes,No,yes,,150,94
+1600, male ,35,8,90,7, yes ,No,,Low,68,70
+1907,,17,2,150,4,NO, no ,,,65,99
+1779,MALE,-1,,55,4,,Yes,No,Low,90,67
+1262,Female,35,,65,3,Yes,,Yes,HIGH,69,98
+1343,Male,21,,110,7,Y, no ,No,High,89,85
+1523, male ,20,9,75,6,Yes,Y,,Medium,63,65
+1238,FEMALE,22,7,70,10, yes ,Y,,High,87,84
+1111, male ,35,1,80,2,No,yes,,High,47,49
+1498,Female,-1,9,70,3, yes , no ,No,,83,54
+1517,MALE,21,10,55,,NO,yes,Yes,Low,37,95
+1362,MALE,20,6,65,8,,yes,, low ,96,-5
+1430, male ,35,2,,5,No,yes,No,HIGH,41,63
+1974,FEMALE,20,15,55,9,,,No,HIGH,72,76
+1278,Female,22,4,100,10,Yes,No,, low ,37,51
+1261,Male,-1,1,40,2,NO, no ,No, low ,63,97
+1833,FEMALE,,2,,10,No,Y,No,High,78,50
+1797,MALE,18,8,50,6,NO, no ,,Medium,55,42
+1645,,22,6,65,9,,Y,Yes,Medium,47,95
+1405,MALE,17,6,40,8,Yes,Yes,yes,HIGH,39,80
+1843,Female,21,7,50,5,Y,,yes,High,72,84
+1836,,20,7,55,4,NO,,,,82,47
+1138,,20,2,60,8,Y, no ,yes,Medium,61,79
+1535,FEMALE,,5,50,3,,,,Low,90,65
+1496,FEMALE,35,,80,7,Yes,Y,,HIGH,72,83
+1245,FEMALE,-1,12,150,8,,yes,Yes,Low,41,50
+1771,MALE,35,1,110,4,No,yes,Yes,High,71,45
+1531,MALE,19,6,100,2,,No,Yes,Low,52,80
+1573,FEMALE,17,2,40,6,No,yes,, low ,68,64
+1828, male ,-1,10,50,4,NO,Yes,,,100,72
+1412,FEMALE,21,1,80,2,Yes,Yes,Yes,HIGH,68,62
+1717,Male,35,2,100,5,NO,Yes,,Medium,150,35
+1437,FEMALE,20,15,80,,No,Yes,No,,53,90
+1860,Male,22,8,90,,No,No,yes,High,59,61
+1809,,22,3,65,10,,,No,,71,88
+1372,MALE,22,18,65,9,Yes,yes,No,Medium,68,95
+1079,FEMALE,19,18,80,,, no ,Yes,,98,96
+1030, male ,19,12,100,7, yes ,yes,Yes,High,50,50
+1381,,17,18,75,,NO,Y,,High,63,90
+1281,FEMALE,18,18,150,2,,,Yes, low ,33,97
+1300, male ,21,5,75,9,NO,,,Medium,98,90
+1663,Male,18,8,50,,No,Y,No, low ,65,99
+1656,,-1,6,100,7,Yes,Y,No, low ,55,60
+1310,,17,8,50,10,,Y,No,Medium,48,92
+1166,MALE,-1,15,150,7,, no ,,,65,99
+1579, male ,35,3,80,5,,yes,,HIGH,30,95
+1179,,35,4,90,4, yes ,Yes,No,HIGH,49,91
+1741,Female,22,5,95,7,Y,,Yes,,85,53
+1066,FEMALE,18,18,100,2,No,,Yes,,150,92
+1142,Female,20,8,40,10,No,,,,49,98
+1468,Female,17,4,95,9,NO, no ,yes,Medium,66,64
+1389,Male,17,4,110,5, yes ,,No,,50,86
+1850,Female,22,9,80,5,NO,Y,No,,45,51
+1426,FEMALE,21,5,50,2,Y, no ,Yes, low ,51,97
+1334, male ,22,18,40,9,Yes,No,No,,83,66
+1685,FEMALE,-1,4,65,3,Yes,Y,No,,62,44
+1888,,17,9,55,,NO,yes,,Low,85,66
+1424,,17,15,50,8,NO,No,, low ,81,71
+1973,Male,,15,110,7,NO, no ,Yes,,63,67
+1222,MALE,-1,4,65,7,Y,Y,Yes,Medium,50,55
+1276,FEMALE,20,5,,,Yes,No,No, low ,57,62
+1236,,18,6,110,7,NO,Y,yes,High,64,57
+1328,,21,8,90,4,No,No,No,Low,39,98
+1193,,22,4,110,10, yes ,,Yes,Medium,58,47
+1530,Male,19,2,60,2,Yes,yes,No,Medium,91,95
+1050,FEMALE,35,3,110,5,NO,yes,,Low,48,72
+1991,Female,,7,75,10,Y,yes,,Low,,47
+1003, male ,22,6,75,5,No,Y,Yes,Medium,56,60
+1941,FEMALE,17,10,90,6,Yes,Yes,yes,High,52,74
+1788,Female,18,6,80,2,NO,Yes,No, low ,43,53
+1927,,22,,150,8,Yes,,Yes,Medium,90,88
+1250,FEMALE,18,4,95,8,NO, no ,No, low ,58,89
+1553,MALE,-1,,55,4, yes ,Yes,Yes,HIGH,40,92
+1950,,22,8,50,9,NO,yes,yes,Low,60,43
+1175, male ,35,1,85,7,Yes,Yes,Yes,Medium,55,99
+1095,FEMALE,35,,70,8,, no ,No,HIGH,62,82
+1034,FEMALE,20,8,95,5,NO,Yes,No,Low,74,65
+1260,Male,19,,100,,,Yes,yes,Low,53,-5
+1205,Male,22,1,60,3,NO,No,,Medium,58,47
+1347, male ,18,12,110,9,Yes,Yes,,HIGH,30,92
+1594,,-1,18,70,,Y,yes,Yes,High,64,84
+1329,,22,1,95,3,, no ,No, low ,59,86
+1078,Female,21,6,100,5,,Y,,HIGH,92,43
+1085,,,8,60,2,Yes,,Yes, low ,36,87
+1679,MALE,22,,75,9,, no ,,High,48,63
+1083,FEMALE,19,12,65,5, yes ,,Yes,HIGH,78,54
+1371,MALE,22,1,80,8,No,Y,,Medium,37,35
+1937,FEMALE,22,12,,2,NO,No,,Medium,30,74
+1896,Female,35,6,75,7,Y, no ,Yes,Medium,78,39
+1536, male ,20,15,80,10,Yes,yes,yes,Medium,32,70
+1383,,,1,75,10,,Yes,No, low ,62,44
+1719,Male,22,1,60,2,No,,Yes,Low,77,73
+1299,,20,3,75,,Yes,Yes,No,HIGH,57,86
+1006,Female,20,8,100,6,Yes,,Yes,,57,76
+1431,FEMALE,,8,60,3,NO,Yes,,,36,35
+1605,Male,20,15,90,10,,No,No,HIGH,91,51
+1098,MALE,17,5,100,2,Y,,yes,,46,45
+1287, male ,19,4,60,5,Y,,,Low,76,54
+1382,Female,18,4,85,3,NO,yes,,Low,46,81
+1891,Male,22,1,85,6,No,No,,Low,35,70
+1282,MALE,35,15,,2,No, no ,No, low ,34,81
+1267,Male,19,3,60,5,No, no ,Yes,High,73,58
+1449,Female,35,8,110,4,Y,No,Yes, low ,71,92
+1708,,18,4,85,10,No, no ,, low ,56,
+1324,FEMALE,22,1,40,9,,No,,,97,92
+1409,,-1,18,100,,,,,Low,40,44
+1899, male ,18,10,90,10, yes ,yes,Yes,Low,99,120
+1539,Female,,1,75,9,No,Y,,Low,73,51
+1119,Male,22,8,40,4,Y,yes,No,Low,99,81
+1694,Male,22,15,70,6,Yes,yes,,Low,57,
+1251,FEMALE,17,2,150,2,Y,Y,Yes,High,36,49
+1665,FEMALE,35,5,60,, yes , no ,No,HIGH,50,53
+1667,,21,6,110,5,NO, no ,Yes,,84,83
+1010,MALE,35,18,150,6,Yes,,,High,32,-5
+1197,Female,18,18,85,8,Y,No,Yes, low ,33,98
+1713,FEMALE,,7,40,10,Yes,,Yes,Medium,35,67
+1082,,21,1,40,2, yes ,yes,yes,,53,45
+1584,MALE,21,6,60,5,NO,Y,No,,53,45
+1508,MALE,19,12,85,7,Y,Y,,Low,34,76
+1669, male ,19,4,55,6,Yes,,No,Low,62,91
+1240,,18,,80,,Y, no ,Yes,Low,150,67
+1313,Male,17,3,95,10, yes ,No,No,HIGH,77,56
+1212,Male,21,4,80,,Y,No,Yes,Medium,38,58
+1862,,21,3,80,2,NO,Y,Yes,Medium,89,44
+1550, male ,18,2,100,5,Y, no ,No,Medium,92,79
+1480,FEMALE,-1,8,100,2,Yes, no ,Yes,High,48,59
+1228,MALE,-1,2,85,,,yes,Yes,Medium,89,83
+1911,MALE,21,6,60,2,,No,yes,Medium,77,70
+1363,MALE,17,6,40,,NO,No,yes, low ,91,59
+1968,FEMALE,18,8,60,4,Y,,Yes,High,83,99
+1178,Male,22,5,150,,No,yes,Yes,HIGH,150,39
+1885, male ,-1,15,65,8,No,No,yes,Low,93,44
+1939,,,9,,7,NO, no ,Yes,,44,56
+1500,FEMALE,,10,65,5, yes ,,Yes,,98,37
+1680,MALE,22,3,65,5, yes , no ,yes, low ,95,
+1484,,21,1,75,2,No, no ,No,Medium,82,83
+1008, male ,35,10,65,4,NO,Yes,Yes,Low,46,95
+1156,MALE,20,7,95,10,NO,,No,HIGH,55,80
+1558,Female,21,8,150,4,NO,Yes,No,Low,46,77
+1666,FEMALE,19,10,55,9,Yes,Yes,yes,,55,80
+1514, male ,-1,15,100,10,No,,yes,Medium,75,98
+1425,Male,35,8,50,2,Yes,yes,Yes,Medium,36,73
+1800,MALE,17,5,40,4,Yes,Y,yes,,94,35
+1585,FEMALE,35,12,90,8, yes ,Yes,No,Low,84,67
+1358,,20,2,40,4, yes ,No,,Low,100,51
+1597,,19,15,,2, yes ,yes,No,High,86,88
+1959,Male,22,7,95,7,NO,Yes,No,HIGH,59,85
+1586,Male,18,5,95,2,Yes, no ,yes,Medium,54,41
+1446,MALE,19,5,75,2,,Yes,No,Medium,44,81
+1852,Female,18,10,75,4,No,yes,yes,Medium,66,80
+1602,FEMALE,18,10,90,4,Y,Yes,No,Medium,63,92
+1729,FEMALE,22,1,80,4,No,yes,Yes,,71,76
+1479, male ,19,6,150,9,NO, no ,yes, low ,46,99
+1897,MALE,35,2,75,9, yes ,Y,No,Medium,80,35
+1229,FEMALE,19,18,60,6,Yes,,yes,Low,79,48
+1867,MALE,20,9,75,5,Yes,Yes,yes, low ,33,83
+1750,Male,19,1,110,6,NO,,,,32,59
+1213,MALE,17,2,40,9, yes ,Yes,,High,40,70
+1080,Female,21,7,90,, yes ,Yes,yes,Low,70,55
+1149,FEMALE,-1,18,50,2,,,yes,High,32,88
+1303, male ,,10,60,5,Y,Y,, low ,40,57
+1799, male ,21,4,90,2,NO,Y,Yes,,67,67
+1634, male ,35,1,65,,No,Yes,No, low ,87,35
+1524,FEMALE,17,8,80,10,Yes,Yes,No,Medium,62,46
+1366,MALE,19,7,95,10,Y,yes,yes,High,53,83
+1044, male ,19,10,50,7,No,Yes,No,Medium,70,99
+1847,FEMALE,17,15,95,3,No, no ,yes,High,77,63
+1134, male ,20,2,85,7,NO, no ,Yes,Medium,50,64
+1568,FEMALE,17,6,100,2,No,No,Yes,High,150,36
+1312,MALE,35,7,50,8,NO,,No,Low,38,50
+1627,Female,18,4,65,9,Y,Yes,yes,Medium,55,38
+1598,MALE,22,9,65,,No,Yes,No,Medium,42,
+1811,,22,15,,6, yes ,No,yes,HIGH,58,42
+1001,FEMALE,22,6,100,9,Y, no ,Yes,Low,94,91
+1317,Male,,9,80,6,NO, no ,No,,54,57
+1868,FEMALE,21,18,55,9,,Y,yes, low ,47,86
+1955,Female,19,3,100,3,Yes,,Yes,High,88,48
+1552,Female,22,18,100,5,Y, no ,,Medium,39,56
+1549,Female,21,9,90,7,,Y,yes,Medium,78,53
+1948, male ,17,,75,9,Yes,,No,High,90,42
+1399,Male,19,8,80,5,NO,,yes,Low,37,51
+1173,,20,8,60,6,No,Yes,No, low ,47,44
+1126,FEMALE,22,18,90,, yes , no ,No,Medium,45,50
+1423,Female,35,10,60,2, yes , no ,Yes,HIGH,97,61
+1450,,35,9,85,6,Yes,No,yes,Medium,41,70
+1588,Male,18,1,70,5, yes ,yes,Yes,Low,100,82
+1926,,20,4,,5,,yes,Yes,HIGH,89,80
+1091,Female,-1,6,90,10,Yes, no ,yes,Medium,58,78
+1964,Male,21,3,85,2,Y,,, low ,31,59
+1182,Male,21,2,70,2,Y,,,Medium,82,54
+1364,Male,35,5,150,3,No, no ,No,HIGH,84,120
+1275,FEMALE,20,8,75,8,Y,Yes,yes,HIGH,71,86
+1918,,,10,60,6,Yes,Yes,yes,Low,39,48
+1070,,18,9,50,10,,yes,Yes, low ,75,59
+1292,Male,17,18,55,4, yes ,Yes,Yes, low ,69,44
+1132,MALE,20,7,65,5,NO,yes,,Low,41,85
+1301,,21,3,100,6,No,Y,Yes,High,96,-5
+1454,FEMALE,20,18,95,9,No,No,Yes, low ,43,82
+1327,,35,7,70,5, yes ,yes,yes,HIGH,62,55
+1145, male ,20,10,55,6,No,yes,Yes,High,38,78
+1545,,18,7,,8,Y,Yes,No,Medium,74,80
+1961,FEMALE,,12,40,,NO,Yes,No,Low,49,84
+1661,FEMALE,21,5,110,6, yes ,Y,Yes,,34,94
+1136,MALE,-1,1,65,2,Y,yes,yes,,72,49
+1436,FEMALE,18,1,100,9,Yes,,yes,HIGH,65,70
+1165,Male,19,7,80,9,Yes,yes,yes, low ,43,49
+1029,Male,-1,10,60,7,,Y,, low ,31,100
+1793,,19,15,150,9,No,yes,,HIGH,84,61
+1194,MALE,18,1,75,3,Yes,Yes,,,55,62
+1753,FEMALE,-1,6,85,7,,yes,,Low,99,54
+1658,MALE,-1,10,80,10,No,No,,HIGH,46,72
+1818,Male,22,18,85,2,NO,Y,No,Medium,71,67
+1170,FEMALE,17,5,,3, yes ,No,No,Low,54,48
+1760,MALE,18,5,40,4,NO, no ,yes,HIGH,76,98
+1141,Female,19,4,100,,NO,No,,HIGH,56,80
+1174,,22,15,40,7,Y,No,Yes,HIGH,66,83
+1007, male ,-1,18,95,5,No, no ,yes,Low,74,-5
+1627,Female,18,4,65,9,Y,Yes,yes,Medium,55,38
+1756,MALE,35,1,110,7, yes ,,No,,92,37
+1670,MALE,20,15,100,3,Yes, no ,No,High,43,48
+1074,FEMALE,-1,5,100,7,,yes,yes,High,79,37
+1704,MALE,22,,65,5,Y,,,Low,,52
+1443,,-1,15,55,4,NO,Y,No,Medium,57,90
+1239,Female,17,4,85,4,Y,yes,Yes,HIGH,47,50
+1146,Male,-1,4,100,9, yes ,yes,,Low,82,63
+1814,MALE,,10,80,7, yes ,,Yes,Medium,39,
+1235,Male,19,,85,9, yes ,Yes,,HIGH,38,53
+1221,,22,5,95,7, yes , no ,Yes,HIGH,54,46
+1507,,21,15,75,4,Y,,Yes, low ,49,80
+1679,MALE,22,,75,9,, no ,,High,48,63
+1133,,-1,15,55,3,Yes,yes,Yes, low ,64,67
+1884, male ,35,2,150,2,Y,,Yes, low ,51,100
+1751,Male,35,,55,3,Y,Y,No, low ,72,36
+1676, male ,,7,90,7,,Y,No,High,58,73
+1186,FEMALE,20,5,55,10,,Yes,Yes,Low,78,73
+1042, male ,21,3,85,3,No, no ,,HIGH,55,62
+1631,MALE,19,10,50,2,No, no ,Yes,High,95,90
+1109,Male,22,4,55,10,No,Yes,yes,,91,92
+1654,MALE,17,10,55,2,No,yes,yes,,84,55
+1057,Female,,6,70,,Y,yes,No,,51,120
+1434,MALE,18,8,55,5,Yes,Yes,yes,Medium,-10,93
+1785,Male,21,8,100,3,Y,No,Yes,HIGH,30,77
+1582,Male,19,15,95,2, yes , no ,Yes,Low,50,65
+1883, male ,18,18,85,,NO,,yes,Medium,98,53
+1025,,22,10,65,5,Yes,yes,Yes, low ,60,57
+1817,,35,9,100,9,Y,No,Yes,HIGH,76,84
+1786,MALE,18,9,50,4,Y, no ,Yes,Medium,59,93
+1548, male ,,15,110,10,,,Yes,Medium,88,60
+1639,Female,19,5,90,9,No,No,Yes,HIGH,59,35
+1715, male ,20,7,55,8,,,Yes, low ,51,72
+1951, male ,19,15,80,8,NO, no ,No,,-10,36
+1339,MALE,22,7,55,10,,Yes,,,31,49
+1052,Female,-1,2,110,4,,,No,Low,77,79
+1384,Female,18,3,110,2, yes , no ,No,,76,83
+1532, male ,22,4,40,8,,No,yes,Low,75,41
+1944,MALE,19,1,50,9,No,yes,Yes,Low,43,89
+1653,MALE,19,4,60,8,No,Y,No, low ,46,-5
+1265,FEMALE,,18,110,6,Yes,yes,Yes,HIGH,94,100
+1848,Female,-1,8,70,3,Yes,Y,No,Medium,36,73
+1732,FEMALE,,4,95,10,No, no ,,Medium,40,37
+1931,Female,18,8,50,5, yes , no ,No,High,77,100
+1445,FEMALE,18,7,85,10,NO,Y,Yes,,56,71
+1396,Female,19,4,55,2,No,Yes,yes,Medium,49,61
+1534,MALE,,4,75,,Y,yes,No,High,36,86
+1478,MALE,17,,85,5,Yes, no ,yes,,45,40
+1019,Female,20,9,75,4, yes ,yes,Yes,HIGH,60,56
+1737,FEMALE,20,12,40,2,Yes,Y,Yes,Low,42,58
+1515,Female,22,2,50,10,Y,yes,yes, low ,51,99
+1981,,20,9,40,4,Y,,Yes,Medium,45,47
+1463,MALE,35,8,75,9,Y,No,No, low ,100,59
+1368,FEMALE,18,8,150,10,NO, no ,,Medium,51,61
+1084,,20,7,55,8,Y,yes,Yes,HIGH,47,69
+1062,MALE,35,12,95,7,,Yes,yes,Low,82,68
+1281,FEMALE,18,18,150,2,,,Yes, low ,33,97
+1273,Female,-1,5,80,5, yes ,Y,yes,HIGH,40,61
+1286,Male,21,,90,10,No,No,,Low,92,88
+1361,Male,-1,5,65,6, yes ,yes,,HIGH,54,95
+1355,MALE,17,5,95,7,No,yes,yes,Medium,71,79
+1989,,17,15,85,3,,,yes,,73,89
+1279,Male,21,9,70,6,Y,Y,,Low,82,78
+1013,,-1,6,70,6, yes ,Y,Yes,,59,85
+1183, male ,,8,85,2,Yes,yes,,,92,71
+1369,Male,35,7,85,7,NO,,No, low ,40,52
+1520,Female,17,2,,3,Yes,yes,No,HIGH,68,61
+1636,Female,18,,75,7,Y,Y,Yes, low ,86,98
+1224,Male,35,15,85,6,No,No,Yes,HIGH,72,45
+1592,Male,,3,55,5,No,Y,yes,High,-10,40
+1914,Female,18,8,,4,Y,Y,No,,91,75
+1697,Male,22,1,100,4,Y,Y,,Medium,46,94
+1733,FEMALE,18,12,95,7,No,Yes,,Medium,65,43
+1466,Female,35,4,60,10, yes ,,No,High,91,67
+1603,FEMALE,21,8,110,5,,No,,High,100,89
+1629,,20,10,40,4, yes ,Yes,No,Low,99,120
+1177,FEMALE,17,,80,3,NO,Y,yes,,93,61
+1686,FEMALE,17,4,60,10,NO,No,,HIGH,34,75
+1893, male ,22,2,70,7,No,Yes,,,92,44
+1606, male ,20,5,100,5,Y,No,yes,Low,42,73
+1457,MALE,18,3,150,,NO,No,,Low,83,94
+1537,Male,21,3,100,4,Yes,Yes,No,Medium,67,88
+1394,MALE,35,4,80,7,Yes,Y,,Low,42,72
+1164,,22,18,65,10,No,No,Yes,HIGH,46,95
+1249, male ,19,,55,10,, no ,,,52,58
+1835,,21,12,95,3,Y,Yes,yes,HIGH,-10,98
+1908,MALE,17,3,50,,,,,,37,63
+1690, male ,18,2,95,6,No,yes,No,Medium,92,68
+1376,Male,20,18,80,6,Y, no ,, low ,67,71
+1413,Female,17,8,85,3,No,yes,yes,Low,82,94
+1075,,22,2,150,5,Yes, no ,No,Low,89,120
+1114,MALE,20,15,75,9,NO,,yes,HIGH,61,58
+1589, male ,35,8,95,4,NO,No,No,Medium,100,81
+1825,,21,12,80,10, yes ,,yes,HIGH,85,87
+1391,Male,,5,150,10,Yes,Yes,yes, low ,98,82
+1105,Male,19,12,60,5, yes ,No,Yes,HIGH,48,92
+1115,Female,17,5,70,9,No,yes,yes,Low,90,64
+1418,Female,-1,15,110,5,Y,No,yes,High,59,49
+1971,MALE,35,8,,4,No,,yes, low ,38,70
+1458,Female,17,8,50,10,,Yes,No, low ,34,47
+1410,FEMALE,19,1,90,8,,Yes,yes,High,91,93
+1093,Female,22,7,85,6,Y,,yes,Low,43,81
+1583,,35,18,110,2, yes ,Yes,Yes,High,66,67
+1090,MALE,35,10,50,,No,Y,, low ,45,61
+1337, male ,21,15,110,6,Y,No,Yes,Medium,31,98
+1900, male ,17,5,90,9,No,yes,No,HIGH,66,69
+1945,Female,,2,70,3,NO,Y,,HIGH,40,89
+1977,Male,21,5,80,5,Y,Yes,Yes,High,99,95
+1889,FEMALE,35,7,65,5,NO,,,,52,81
+1626,MALE,35,4,65,3,No, no ,No,Low,90,87
+1614,MALE,17,12,85,,No,Yes,Yes,Medium,95,77
+1632, male ,,6,110,3,,Yes,,,48,57
+1012, male ,19,6,150,2, yes ,No,yes,HIGH,75,53
+1397, male ,18,15,100,10,NO,No,No,High,86,
+1550, male ,18,2,100,5,Y, no ,No,Medium,92,79
+1043,MALE,20,4,60,4,NO,yes,yes, low ,99,71
+1168,FEMALE,22,8,55,3,Yes,Yes,,Low,53,37
+1417,Male,22,2,150,7, yes ,Yes,yes,HIGH,33,92
+1778, male ,20,4,95,4,, no ,yes,High,49,48
+1427,Female,22,15,60,4,NO,Yes,yes,Low,85,60
+1905,Female,,2,60,3,Yes,Yes,yes,Medium,43,94
+1988,MALE,18,6,95,4,No,,yes,Medium,82,56
+1705,MALE,20,10,40,9,Yes,Yes,Yes,,99,90
+1803,MALE,20,15,150,2,No, no ,, low ,72,89
+1258,FEMALE,,1,65,2,Y,,,Low,35,97
+1336, male ,17,4,110,8,Y,,Yes, low ,69,62
+1016,FEMALE,-1,15,100,10, yes , no ,No,,40,59
+1650, male ,17,4,100,10,NO,,, low ,81,82
+1325, male ,20,4,110,9,NO,yes,Yes,HIGH,48,37
+1874,FEMALE,,10,75,,NO,Yes,yes,HIGH,57,99
+1223,Male,17,10,55,10,, no ,No,Low,39,59
+1180,Male,19,6,70,7,Y, no ,Yes,Medium,83,49
+1812,Male,-1,,65,,No, no ,No,Medium,72,37
+1522,FEMALE,19,9,,,Y,Yes,Yes, low ,79,92
+1023,FEMALE,17,9,75,3,Yes,Yes,yes,,66,76
+1357,MALE,21,7,100,7,NO,yes,No, low ,64,63
+1978,MALE,22,5,100,8,NO,No,Yes,Medium,31,52
+1884, male ,35,2,150,2,Y,,Yes, low ,51,100
+1341,Male,21,5,150,10,No,yes,No, low ,84,72
+1432,MALE,19,12,50,2,NO, no ,Yes, low ,84,84
+1569,Male,22,15,70,4,NO,yes,yes,,47,77
+1856,Female,20,3,70,9,Y,Yes,yes,Low,150,120
+1204,,20,9,,4,Yes,Yes,No,,37,43
+1651,Female,22,18,95,7,Y,Yes,yes,HIGH,96,37
+1094,Male,17,18,75,7,, no ,,High,78,78
+1576,Male,21,4,65,6,Yes, no ,yes,Low,39,41
+1069,Female,,,80,4, yes ,Yes,No,Low,68,64
+1859,,19,5,50,5,Y,No,yes, low ,95,57
+1285,Male,35,18,55,9,Y,Y,No,Medium,150,78
+1827, male ,-1,2,85,4,,,No,HIGH,59,66
+1435,FEMALE,35,1,,4,, no ,No,HIGH,84,96
+1154,MALE,17,,95,7, yes ,Y,yes,,74,67
+1076,MALE,-1,3,90,9,NO, no ,Yes,HIGH,44,51
+1752,MALE,20,,,6,NO,,, low ,60,53
+1447,Female,21,8,50,2,Y, no ,No, low ,62,81
+1189, male ,,4,55,9,Yes,,Yes,Low,44,57
+1272,FEMALE,19,18,40,,No,No,yes,High,63,75
+1237,MALE,18,3,150,6,Yes,yes,yes,High,50,43
+1488,FEMALE,,9,65,10, yes ,,, low ,46,84
+1560,Male,18,7,40,,Y,yes,No,Low,69,100
+1118,FEMALE,20,5,100,9,NO,yes,Yes, low ,48,96
+1965,,20,5,95,4,No,Yes,yes,High,66,95
+1513,Female,19,5,100,,Yes,Yes,, low ,83,58
+1571,MALE,19,18,,10,,yes,No,,77,91
+1612, male ,17,10,50,10,NO,No,No,HIGH,97,55
+1127,,18,10,85,9,,,No,,90,93
+1117,Male,35,12,60,5,No,No,Yes,Low,46,47
+1474,Male,35,12,150,8,,,No,Low,37,90
+1714, male ,17,1,55,8,Yes, no ,yes, low ,79,
+1058,FEMALE,17,5,55,6,Y,Yes,yes,Medium,86,63
+1695,FEMALE,,15,110,3,No,,yes, low ,73,120
+1935, male ,17,15,100,2,Yes,,,,83,53
+1370,FEMALE,-1,5,85,5,,Y,,High,77,88
+1269,,17,9,40,3,Y,,Yes,,57,93
+1047,Female,18,2,150,7, yes , no ,Yes,High,80,44
+1350,Male,35,,40,7, yes ,,No,,61,85
+1196, male ,18,2,,8,Y,,,,44,85
+1103,Male,-1,8,55,10,,No,No,HIGH,49,92
+1954,Female,,4,65,3,No,yes,Yes,Low,50,62
+1712,MALE,17,,70,9,,yes,Yes,,94,
+1758,,18,18,40,2, yes ,yes,No,,39,60
+1264, male ,22,,85,5,Y,,yes,HIGH,53,47
+1444, male ,19,1,,7,Yes,Y,No, low ,89,65
+1696,Male,-1,3,,8, yes , no ,yes, low ,72,95
+1305,MALE,21,2,100,,,yes,,Medium,36,95
+1342,FEMALE,22,4,55,7,,,,,150,60
+1619,FEMALE,20,7,,2,,Yes,,Low,73,44
+1994, male ,35,3,75,8,Y,No,Yes,,48,88
+1150,,35,9,55,2,Y,Y,,Medium,99,91
+1125, male ,20,15,60,5,NO,,yes,,40,46
+1808,MALE,21,7,85,2,NO,No,Yes, low ,68,99
+1845, male ,21,10,110,10,No,,No,High,-10,43
+1051,,18,15,100,6,,Y,No,Low,41,46
+1354,,22,6,80,4, yes ,Y,Yes,HIGH,86,60
+1952,FEMALE,-1,1,85,9,,No,,HIGH,39,93
+1143,FEMALE,20,6,75,,,,,High,54,80
+1471,Male,-1,3,110,8,Y,yes,Yes,High,62,82
+1400,MALE,22,3,110,2, yes ,Yes,Yes, low ,39,81
+1821,FEMALE,,9,60,10,NO,Yes,Yes,Medium,71,50
+1321, male ,35,3,70,9,Yes,Yes,yes,,56,65
+1020,FEMALE,20,10,40,10,Y,Yes,, low ,62,53
+1972,FEMALE,21,8,55,7,No,yes,No,High,,72
+1812,Male,-1,,65,,No, no ,No,Medium,72,37
+1831,Male,19,5,60,4,Yes,No,Yes,,51,86
+1408,,17,10,75,8,No,,yes,High,78,67
+1538,Male,18,,65,3,,Y,,HIGH,63,88
+1722,Male,18,12,75,8, yes , no ,yes,High,89,67
+1039,FEMALE,17,10,55,9,Y,No,No, low ,54,100
+1176,Female,,9,80,7,Yes,,,Medium,38,91
+1246, male ,35,2,40,3,Y,,yes, low ,95,81
+1851,Female,20,5,40,, yes ,,No,High,30,90
+1688,Male,21,,55,7,,No,Yes, low ,53,93
+1947, male ,17,8,40,10,No,No,No, low ,71,94
+1881,,35,8,40,10,NO, no ,, low ,44,64
+1155,FEMALE,-1,9,75,10,NO,,No,HIGH,76,59
+1288, male ,19,2,110,6,,Y,,,55,65
+1623,MALE,17,9,110,2,No, no ,Yes,,95,62
+1570,MALE,-1,18,40,,,Y,yes,High,81,76
+1765,Male,,10,55,3,Yes,Yes,No, low ,47,38
+1018,,18,10,150,3,No,,,Low,95,90
+1128, male ,21,3,,10,Y,Yes,No,High,36,83
+1323,Male,22,15,50,3, yes ,yes,,Medium,92,47
+1256, male ,-1,18,65,4,NO,Y,Yes,High,61,-5
+1678, male ,,18,65,7,NO,No,Yes,High,32,67
+1992,Female,35,3,90,5, yes ,Yes,No, low ,75,81
+1191, male ,20,18,100,10,No,Y,No,HIGH,72,50
+1116,Female,20,15,85,7,,No,Yes, low ,83,96
+1637,FEMALE,20,9,55,4,Y,Y,, low ,66,92
+1607,FEMALE,20,3,65,10,,Yes,,Medium,60,-5
+1181,Male,-1,6,75,9,No,,Yes,Medium,59,64
+1302,Male,22,2,100,6,NO, no ,yes,High,49,43
+1781,Male,17,7,90,9,Y,yes,Yes, low ,97,98
+1875,MALE,35,9,95,5,No,Y,No,Low,64,46
+1801,MALE,19,,80,8,,Yes,,,80,40
+1706,MALE,17,6,80,,No, no ,No,Low,72,87
+1824,Female,21,8,,7, yes ,No,No,HIGH,30,41
+1518,MALE,22,1,100,,Yes,,No,High,49,49
+1077,Female,,10,65,10,NO, no ,yes, low ,65,48
+1046,Male,22,7,150,9, yes , no ,No,,30,38
+1942,,35,15,110,4,No, no ,Yes,High,46,72
+1158, male ,21,1,50,,Yes, no ,yes,HIGH,83,39
+1766,Female,19,3,95,10,Y,Y,yes,,31,71
+1172,FEMALE,21,8,95,6,Yes,yes,yes,Medium,61,120
+1017,,22,9,95,4,,yes,,,98,60
+1512,Female,17,18,150,3,,Yes,,High,88,54
+1049,Male,21,1,55,2,,,Yes, low ,42,48
+1999,Male,20,6,65,6,, no ,Yes, low ,49,82
+1924,Male,18,4,100,8,,No,Yes,High,44,87
+1516,Male,21,12,55,9,No,yes,Yes,High,93,51
+1707,MALE,-1,5,60,8,,Yes,Yes, low ,52,41
+1481,Female,18,10,55,2, yes ,yes,yes,,37,35
+1284, male ,17,15,85,3,,yes,No, low ,59,87
+1740,FEMALE,20,10,150,10, yes ,Yes,No,HIGH,87,55
+1886,Male,18,10,110,4,No,Y,yes,Medium,70,50
+1226,,35,10,150,5,Y,Yes,No,High,77,84
+1027,FEMALE,,8,110,10,,,yes,Low,31,47
+1804,Female,35,10,75,8,,No,Yes,High,58,39
+1438,MALE,35,7,60,2,,No,No, low ,73,55
+1982,Female,21,,90,6,NO,No,No,Medium,30,77
+1365,,-1,10,90,6,,Y,yes, low ,75,36
+1230,Female,17,3,95,9,,No,,High,52,35
+1038, male ,20,7,85,9,Yes,,No,,49,75
+1993, male ,35,18,,4, yes , no ,Yes,High,98,96
+1375,Female,17,2,40,7,No, no ,No,,75,75
+1470,,,7,50,9,No,Yes,,,81,83
+1995,MALE,-1,12,65,9,NO,yes,No,Medium,67,63
+1873,FEMALE,18,4,150,8,Y,Y,yes, low ,-10,93
+1915,,22,6,70,7,No,No,Yes,,80,70
+1747, male ,35,3,,2, yes , no ,,Medium,89,73
+1195,Male,35,7,150,4,,yes,No,Medium,31,61
+1877,,18,6,110,4,NO,Yes,,Low,94,75
+1887, male ,21,12,65,6,No,,,Low,100,71
+1504,MALE,-1,10,60,8,No,Y,No,HIGH,39,-5
+1997,MALE,-1,12,95,8, yes ,Y,Yes,Low,72,99
+1853,,18,5,50,4,,Y,No,Medium,66,120
+1580,FEMALE,21,7,95,3,Y,,yes,HIGH,78,36
+1996,,17,2,65,3,Y,No,,Medium,40,56
+1163,MALE,,,60,5,Y,,yes,,58,82
+1723,MALE,35,12,90,2,Y, no ,,,75,54
+1153, male ,,,95,9,,Yes,No,HIGH,99,54
+1917,Male,17,12,,2,No,Y,yes,Medium,58,39
+1721,,18,15,,, yes ,No,yes,HIGH,94,67
+1957, male ,-1,7,110,2,No,yes,Yes, low ,98,78
+1112,Male,19,15,100,8,No,yes,yes, low ,-10,67
+1227,Female,19,6,150,6,, no ,Yes, low ,50,96
+1709,MALE,17,3,150,6,Yes,yes,yes,Medium,87,86
+1104,Male,-1,1,40,6,Y,yes,Yes,Low,59,53
+1422,Female,,2,,2,Yes,,No,,60,58
+1420,MALE,18,1,75,6,No,Y,No,Medium,64,58
+1934,Male,19,4,85,5,No,No,,High,39,84
+1587,MALE,20,18,150,10, yes ,,Yes,High,36,65
+1802,MALE,-1,8,75,,NO, no ,No,High,64,75
+1673, male ,17,4,70,,,,,High,75,46
+1120,FEMALE,,6,80,10,NO,,,Medium,63,50
+1054,Male,20,7,60,2,NO,yes,Yes,Medium,86,69
+1152,MALE,18,10,70,7,No,Y,,,30,56
+1404,FEMALE,17,18,110,9,Y,Yes,yes,High,41,38
+1970,Male,35,10,50,6,,Y,Yes,,32,43
+1208,FEMALE,17,4,70,3,,No,Yes,High,84,77
+1659,Male,,5,110,3,NO,Y,,High,54,45
+1866,MALE,19,15,50,10,NO,Yes,No,HIGH,66,95
+1784, male ,20,1,65,3,Y,Yes,yes,HIGH,49,-5
+1009, male ,,12,60,4,,Yes,Yes,Medium,69,95
+1830,FEMALE,35,9,150,10,NO,No,,High,38,50
+1037,,17,15,65,10,No,Yes,, low ,67,93
+1453, male ,17,1,55,7,Y,Y,yes,Medium,150,76
+1652,Female,18,4,75,10,,,No,HIGH,60,57
+1254, male ,18,2,,5,No,yes,No,HIGH,73,61
+1304,Male,18,9,70,8,NO,Yes,No, low ,96,97
+1768,,19,18,110,8,NO, no ,No,Medium,55,65
+1572,Male,-1,2,60,, yes ,Yes,Yes,HIGH,72,120
+1624,Male,22,18,70,10,NO,Y,No,HIGH,70,87
+1731,,35,4,,7,Yes,No,,Medium,100,99
+1741,Female,22,5,95,7,Y,,Yes,,85,53
+1263,Male,-1,6,110,5,Yes,,No,Medium,76,66
+1611,FEMALE,22,3,60,2,,Y,No,Low,63,55
+1298,FEMALE,35,3,60,8,NO,yes,,Medium,36,77
+1415,,21,9,150,10,No,Y,Yes,High,30,89
+1151,MALE,-1,7,40,5,,Yes,Yes, low ,84,100
+1810,Male,,7,40,4,Y,yes,yes,High,57,95
+1641,FEMALE,-1,4,110,,,Y,Yes,HIGH,-10,120
+1912,Male,,15,65,7,NO,No,No,HIGH,57,77
+1551,Male,-1,5,50,4,,Yes,,Medium,61,60
+1900, male ,17,5,90,9,No,yes,No,HIGH,66,69
+1489,MALE,17,2,65,6,Y,Yes,Yes,Low,-10,36
+1711,FEMALE,17,4,100,5,No,Yes,No,Low,35,68
+1148,MALE,22,18,,5,,Y,No,High,67,86
+1147,FEMALE,22,5,110,9,NO,Y,yes,,90,96
+1742,FEMALE,22,9,50,10, yes ,yes,,Low,53,81
+1998,Male,20,8,110,6,,Yes,No,,49,63
+1761,,19,3,80,,NO,,No, low ,86,42
+1660,,17,6,55,9,, no ,No,Low,31,63
+1349, male ,21,6,70,8, yes ,Y,No,Low,69,77
+1464,Male,18,10,100,7,,,Yes,Medium,67,60
+1326, male ,18,4,100,,Yes, no ,No,Low,57,69
+1187,MALE,,15,55,5, yes ,yes,Yes,HIGH,48,60
+1124,MALE,17,6,55,,Yes,,No,HIGH,,37
+1975,Female,19,9,40,3,,Y,Yes,Medium,,95
+1609,FEMALE,20,4,75,4, yes ,Y,yes, low ,44,79
+1144,MALE,21,15,85,4,, no ,,Low,95,90
+1986,Female,20,15,40,10,NO,,, low ,42,84
+1198,FEMALE,17,2,95,7,Yes,yes,,Medium,79,86
+1610,,17,8,70,9,NO,,No,Medium,86,35
+1280,,35,4,100,,No,,,Low,150,44
+1294, male ,20,,60,4,,Y,Yes,High,91,62
+1401,FEMALE,18,9,65,10,Yes,Yes,yes,,-10,47
+1123,,35,3,,8,,yes,yes,,,42
+1184,,21,7,55,3,NO,,No,HIGH,40,37
+1203,Male,35,9,55,5,Y,,,,95,85
+1439,FEMALE,19,8,40,3, yes ,yes,,Low,46,47
+1247,,35,3,150,4,No,Yes,yes,HIGH,31,78
+1416, male ,22,1,75,7, yes ,yes,Yes,,85,48
+1815,MALE,20,6,80,10,,Y,yes,HIGH,88,89
+1787,Male,20,4,85,7, yes ,Y,yes,Medium,53,86
+1929,MALE,22,6,50,7,No,No,No, low ,39,57
+1790, male ,20,6,80,2,NO,Yes,No, low ,98,56
+1910,Male,21,7,150,3,NO,No,,,65,37
+1130,Male,22,6,,6,NO, no ,Yes,Medium,45,96
+1638,Male,22,2,55,5,NO, no ,No,HIGH,90,93
+1403,Male,21,4,100,3,, no ,,Medium,40,58
+1522,FEMALE,19,9,,,Y,Yes,Yes, low ,79,92
+1909,,19,18,100,8,,,yes,,55,53
+1736,FEMALE,18,15,50,8, yes ,,No,Low,62,37
+1936,MALE,-1,,40,9,No,,,High,94,35
+1220,FEMALE,22,15,150,3,NO,Yes,,Medium,68,59
+1642,Male,21,12,55,7,Y,Y,No,HIGH,54,71
+1938,,35,18,85,6,Yes,Yes,yes,High,34,66
+1774,,-1,5,50,9,,yes,Yes,Low,94,72
+1829,Female,20,12,150,3,Yes,Y,, low ,81,56
+1946,,17,9,70,7,NO,Y,yes,HIGH,57,85
+1625,MALE,19,9,60,6, yes ,Yes,yes,Low,99,85
+1211, male ,18,10,60,9,Yes,No,yes,,,67
+1782,,19,2,90,,NO,No,yes,,41,98
+1387,Female,,12,55,10, yes ,Y,yes,High,62,39
+2000,MALE,20,1,40,4,,Y,yes,Low,50,39
+1510,Female,,2,70,5,NO,Y,No,Low,38,67
+1268,Female,19,3,55,2, yes , no ,,Medium,86,45
+1842,,,8,110,9,NO,Y,,Low,47,67
+1442,FEMALE,17,5,90,9,Yes,,yes,High,60,35
+1497,Female,-1,9,85,6,NO,,Yes, low ,64,94
+1113, male ,-1,2,,10, yes , no ,No,HIGH,62,51
+1692,FEMALE,,2,50,2, yes ,yes,yes,Medium,92,62
+1233, male ,18,10,80,3,No,,, low ,33,
+1892, male ,21,1,85,6, yes ,Yes,No,,63,60
+1608,Male,18,1,55,,NO,Y,Yes,Low,31,89
+1672,,35,18,80,7,Y,Y,,Medium,50,50
+1374, male ,-1,10,85,6,NO,No,yes,High,78,-5
+1860,Male,22,8,90,,No,No,yes,High,59,61
+1865,Male,17,5,100,9,No,,yes,Medium,33,89
+1234, male ,17,,50,8, yes ,No,,,150,39
+1807,Male,21,15,60,2,,,Yes,,83,83
+1677,,22,4,55,8,Yes,Yes,,Low,37,67
+1318,,-1,15,75,2,Yes,,Yes, low ,54,66
+1649,Female,19,10,65,2,NO,yes,No,Medium,94,56
+1411, male ,-1,9,65,10,No, no ,No,High,65,65
+1921, male ,21,1,75,8,,Y,Yes,Low,68,88
+1710, male ,18,18,90,,,,,,66,38
+1359, male ,19,,90,5,Yes,Y,,High,82,-5
+1259,FEMALE,35,4,55,8,Yes,No,Yes,Medium,56,99
+1745,Male,18,10,,5,Yes,,, low ,84,66
+1628,Female,18,6,85,3,Yes,Y,yes,High,100,51
+1633,MALE,35,15,70,8,No,yes,,High,97,52
+1283,MALE,35,15,,7,Yes,,yes,HIGH,78,72
+1377,Female,20,5,65,9,NO,yes,Yes,HIGH,37,85
+1385, male ,21,1,95,,No,,, low ,81,75
+1225, male ,17,1,95,,, no ,Yes,,44,98
+1980,FEMALE,18,7,65,4,,Yes,No,High,61,82
+1837, male ,-1,6,80,3,,,No,Medium,69,90
+1473,MALE,,3,55,3, yes ,,No,,56,81
+1348,FEMALE,,15,110,8,Yes,No,,Medium,62,47
+1506,Female,22,4,110,8, yes , no ,No,,99,71
+1640,Female,17,9,50,4, yes ,No,,HIGH,100,37
+1939,,,9,,7,NO, no ,Yes,,44,56
+1798,,-1,9,80,,Y,,, low ,95,52
+1953,MALE,18,10,70,7, yes ,yes,No, low ,37,53
+1928, male ,19,4,50,8,NO,No,yes,Low,49,71
+1620, male ,19,12,150,6, yes , no ,No,HIGH,48,98
+1878,MALE,35,7,75,6,Yes,No,Yes,High,71,41
+1826,,17,4,75,8,, no ,,,31,97
+1646,MALE,19,8,150,9,No,No,yes,Low,39,38
+1869,Female,18,9,80,10,Y,Y,yes,Low,95,36
+1557,,21,,95,7, yes ,No,,HIGH,63,78
+1985, male ,-1,10,110,4,Y,,Yes,Medium,79,51
+1578,Male,22,2,80,7,,Y,yes,High,84,88
+1796,MALE,19,4,55,8, yes ,yes,,Low,83,79
+1086,FEMALE,,15,50,9, yes ,yes,No,Low,33,81
+1243,Male,20,3,75,7,Yes,yes,yes,High,96,35
+1699,,-1,3,65,4,NO,,,Low,78,97
+1160,FEMALE,21,8,150,3,No, no ,No,Medium,75,95
+1525,FEMALE,19,12,95,6,Yes,yes,,HIGH,60,80
+1036,,20,4,95,3,,,Yes,Low,90,88
+1541,FEMALE,19,5,65,7,Yes,Y,, low ,46,56
+1171,FEMALE,21,4,150,,NO, no ,Yes,HIGH,88,70
+1655,MALE,,8,40,2,No,yes,,Medium,65,77
+1913,FEMALE,18,8,80,10,Yes,Yes,yes,High,97,49
+1880,MALE,20,1,75,8, yes ,yes,No,Medium,89,
+1870,Male,-1,1,75,, yes , no ,yes,Medium,77,84
+1969,Male,21,15,60,7,No,,,Medium,54,70
+1734,MALE,-1,6,85,6,,,yes,HIGH,81,85
+1096,FEMALE,17,4,40,6,NO,Y,Yes,Medium,54,86
+1564,Female,-1,6,80,10,Yes,,No,HIGH,93,95
+1241,,22,9,,5,,No,yes, low ,72,36
+1743,FEMALE,19,4,100,6,No,No,,HIGH,-10,56
+1575,MALE,,5,50,4,NO,Yes,No, low ,41,53
+1691,MALE,22,,65,6,Yes,No,No,Medium,77,83
+1461,Male,19,4,85,8,Yes,yes,No, low ,72,67
+1554,Female,21,5,95,3,Y,No,,,99,97
+1901,MALE,-1,5,60,3, yes ,yes,yes,Medium,60,49
+1207,FEMALE,-1,3,80,6,,Yes,yes,Medium,47,89
+1393,,,,40,6,No,Yes,yes,High,35,40
+1795,Male,22,9,55,2,Y,,No,High,53,78
+1398,Female,21,2,80,4,,yes,,High,75,91
+1767,Female,19,5,65,,Yes,,No,Low,72,67
+1871,Female,18,2,150,,Yes,yes,, low ,62,77
+1218,Female,17,12,60,5,, no ,No,Low,85,52
+1005,MALE,35,15,65,10,,Y,yes,Medium,73,65
+1769,Female,22,5,,8,Y,yes,,Medium,100,89
+1643,MALE,21,3,90,2,Y, no ,No, low ,94,63
+1920,MALE,,3,95,5,Yes,yes,, low ,30,81
+1613,Female,22,2,100,10,Y,,,HIGH,58,86
+1739,Female,20,9,65,4,No,Yes,, low ,70,36
+1547,MALE,-1,1,55,5, yes ,Y,, low ,91,38
+1726, male ,19,6,95,10,Y,Yes,yes,Medium,67,79
+1684,Female,-1,7,40,7, yes ,Yes,yes, low ,42,86
+1099,Male,17,1,95,8,NO,yes,yes,High,52,38
+1805,Female,18,,55,6,No,No,yes,Medium,66,93
+1728, male ,,1,150,4,,Y,No,Medium,41,65
+1574,Female,,18,110,7,No,No,,Medium,78,47
+1407,Male,35,5,90,2, yes ,No,yes,Medium,78,77
+1503,,20,2,50,7,NO, no ,No,,60,84
+1048,FEMALE,-1,5,65,7,NO,yes,Yes, low ,34,81
+1033,FEMALE,22,2,,2,Yes,Y,yes,High,81,75
+1780,Female,18,7,70,,No,yes,yes,Medium,50,44
+1840,MALE,22,12,100,7,,No,yes,High,38,75
+1201,Male,-1,2,85,,, no ,Yes,Medium,88,52
+1135,Male,-1,6,65,10,Y,,No,HIGH,79,93
+1028,Male,18,1,50,10,No,,yes,Low,56,100
+1903,Female,17,6,70,2,, no ,Yes,,91,64
+1231,,-1,,60,,, no ,No, low ,42,59
+1490,Male,,2,150,7,,Y,,,68,90
+1773,Male,21,10,75,9,NO,Y,,HIGH,40,91
+1379,Female,19,2,95,8,Yes,yes,No, low ,66,42
+1289, male ,20,18,70,9,,,Yes, low ,86,41
+1419,,,18,,5, yes ,,Yes,High,41,36
+1675,Female,20,7,80,5, yes ,yes,,Medium,45,85
+1392, male ,-1,10,110,6,No,,,HIGH,39,74
+1593,Male,17,7,50,10,NO,yes,No, low ,41,83
+1499,MALE,18,9,100,8,,,, low ,91,84
+1139, male ,18,7,150,,No,Yes,No,HIGH,70,96
+1063, male ,19,10,50,9,No,No,No,Low,60,83
+1472,MALE,,15,70,4,NO,yes,No,,71,83
+1648,Male,21,5,100,,,Yes,yes,,94,67
+1129, male ,17,6,70,8,,No,,HIGH,45,97
+1661,FEMALE,21,5,110,6, yes ,Y,Yes,,34,94
+1521,Male,,7,85,7,,No,No, low ,66,95
+1839,Male,,8,150,7,Y,,,Low,97,46
+1990,FEMALE,20,2,80,, yes ,yes,yes,Low,37,91
+1065,Male,21,,100,7,, no ,Yes,Medium,62,65
+1813, male ,35,8,110,10,Y,yes,yes,Low,32,59
+1015,Female,20,6,85,8,No,yes,,HIGH,38,64
+1157, male ,20,15,95,3,,Yes,No,Low,43,91
+1041,Male,22,2,60,5,,Y,yes,HIGH,61,74
+1493,,21,4,,3,Yes,No,, low ,41,70
+1380, male ,20,5,75,,Yes,Y,Yes,Medium,69,72
+1188,Male,21,6,90,4,NO,,,,41,36
+1764,MALE,-1,,70,5, yes ,Y,No,Low,44,79
+1217,Male,,6,80,2,Y,yes,No, low ,68,96
+1792,MALE,35,15,85,8,Y,Y,No,Medium,89,43
+1053,Female,18,1,85,10, yes ,No,, low ,54,51
+1879,Female,22,1,65,4,Yes,Yes,,Medium,38,
+1338,Female,,6,40,6,Y,Yes,No,,-10,53
+1749,Male,19,12,75,9,NO,yes,No, low ,44,43
+1720,Male,35,12,70,, yes ,yes,Yes,Low,99,88
+1725,,-1,15,70,6,,No,yes,High,87,55
+1296,FEMALE,19,15,110,8,Yes,,No, low ,33,71
+1702,Female,,18,75,6,NO,yes,yes,HIGH,86,64
+1252, male ,35,10,50,4,Y,yes,No,,57,68
+1727,Male,22,18,40,7,Yes,Y,,,40,96
+1462,FEMALE,18,5,85,3,No,Y,Yes,High,76,72
+1456,Female,,8,90,4,,Y,yes,High,60,55
+1528,FEMALE,17,10,85,5,No,No,No,Medium,63,66
+1816,FEMALE,18,10,65,9,,Yes,No,Low,43,74
+1863,Female,21,3,,10,No,No,,HIGH,,50
+1270,Female,-1,6,50,2,, no ,,High,100,49
+1202,FEMALE,,12,100,7, yes ,No,No,HIGH,57,97
+1162,Female,17,3,150,5,No,Yes,Yes,,88,50
+1556,Female,22,8,,3,Y,No,,HIGH,76,99
+1730,Female,,6,75,8,NO,No,yes, low ,68,46
+1402,Female,19,18,110,9,NO,No,Yes,,96,45
+1703,FEMALE,22,15,100,2,No,,,Medium,,94
+1477,,17,5,40,3,No, no ,yes, low ,49,
+1822,Female,18,18,55,4,NO,Y,yes,Medium,61,72
+1772,MALE,17,5,,7,NO,,yes,,34,66
+1106,FEMALE,35,6,110,8,,yes,Yes,HIGH,82,62
+1566, male ,18,12,60,3,No,yes,No,,35,95
+1390,Male,17,7,,5,NO,No,Yes,High,87,57
+1002,MALE,21,7,40,2,NO,Yes,No,HIGH,50,84
+1962,Female,21,2,95,4,NO,Yes,yes,Medium,77,75
+1137,Female,21,3,150,,NO,Y,yes,,46,57
+1562,Female,19,15,70,2,No,Y,Yes,Low,96,74
+1932,FEMALE,,5,,,Yes,yes,No,Medium,62,95
+1081,Female,21,9,150,7,Y, no ,, low ,,71
+1206,Female,21,12,150,2,No,,No, low ,40,74
+1035,,19,3,75,8,,Y,No,High,49,66
+1943,Female,21,10,90,6,Yes,No,,Medium,42,82
+1776,Female,21,6,110,2,NO,yes,Yes, low ,30,53
+1509,FEMALE,18,8,65,9,,No,No,Low,52,49
+1428,,35,12,150,,No, no ,No,Medium,87,99
+1455,Female,22,3,110,4,No, no ,,,54,64
+1367, male ,22,10,70,4, yes ,,,,75,60
+1092,MALE,19,10,95,3,Yes,Yes,No,Medium,52,74
+1340,,35,2,80,10,,Y,No, low ,,40
+1898,Female,18,1,150,9,NO,No,No,High,89,37
+1565,MALE,-1,6,50,5,No,Y,, low ,76,43
+1346,MALE,-1,7,40,,,Yes,,High,56,93
+1777,Male,20,10,70,2,Y,,,HIGH,31,90
+1242, male ,19,5,,10,NO, no ,yes,,35,48
+1014,MALE,21,5,55,7,Y,Y,No,HIGH,98,97
+1316,FEMALE,17,5,40,4,Yes,No,Yes,High,74,64
+1601,Male,,10,65,3,NO,yes,Yes,Medium,41,37
+1388,Female,-1,5,95,2,,Yes,No,HIGH,89,65
+1274,Male,-1,2,110,5,Y,Y,Yes,Medium,64,94
+1167,,,3,55,2,Y,,No,HIGH,87,56
+1841,MALE,20,4,110,10,No,Yes,yes,HIGH,51,37
+1320,FEMALE,,,70,9,,No,,,68,43
+1647,Female,,3,,4,Y,Y,Yes,Medium,40,48
+1819,Male,17,6,,10,,,,High,61,52
+1485,Male,,8,110,7,Y,yes,,,60,53
+1514, male ,-1,15,100,10,No,,yes,Medium,75,98
+1505,Female,20,5,55,8,Y,,Yes,,85,84
+1832,,22,4,150,6,NO,,No,Medium,63,63
+1244,Male,17,2,110,9,Yes,yes,,HIGH,41,92
+1567,MALE,-1,9,80,5,Y,,No,Low,45,50
+1876,Female,-1,7,70,2,No,No,yes,High,39,38
+1563,MALE,19,12,65,7,Yes,,, low ,82,72
+1979,Female,19,8,55,,,No,Yes,Low,95,49
+1687,MALE,-1,8,70,2,NO, no ,Yes,High,56,37
+1958, male ,18,4,100,7,Y,,No,Medium,99,90
+1190,,19,2,85,, yes , no ,Yes,High,60,57
+1783, male ,,3,150,2,NO,Y,No,Low,51,96
+1976, male ,20,4,70,2,NO,yes,Yes,Low,51,80
+1700,MALE,,6,70,4,,yes,yes,Low,86,95
+1476,MALE,21,5,50,4,No,No,Yes,Low,93,46
+1682,FEMALE,21,5,100,8, yes ,Y,Yes,HIGH,51,65
+1511,FEMALE,,6,90,9,No,Yes,yes,Low,87,45
+1059,FEMALE,,3,100,6,No,No,Yes,Medium,76,52
+1475,MALE,20,10,80,4, yes ,yes,,High,52,99
+1561,FEMALE,-1,7,40,10,,Yes,No,High,48,51
+1857,FEMALE,17,7,100,8,Y,yes,Yes,Low,90,57
+1748,,,18,60,8,No,yes,Yes,HIGH,31,76
+1253,FEMALE,35,9,65,5,No,yes,No,Low,43,36
+1022,Male,22,10,110,10,Y,yes,,Medium,75,60
+1314,FEMALE,18,9,75,5, yes ,yes,No,Low,70,91
+1460,,35,5,70,5,Y,yes,No,HIGH,57,99
+1161,Female,-1,4,70,6,Yes,yes,yes,High,60,42
+1277,Male,21,2,80,10,NO,No,yes,HIGH,53,99
+1956,,21,6,85,9,, no ,yes,HIGH,79,58
+1192,Male,,,60,6,NO,Y,,High,66,43
+1386,Female,,15,150,7,NO,Y,,Medium,38,64
+1806, male ,35,6,40,2,Y,,Yes,Low,87,52
+1414,Female,35,9,95,10,NO,,Yes,Low,85,37
+1492,,20,1,,2,Y,yes,Yes,Medium,77,94
+1344,MALE,,18,60,6,Y, no ,Yes,Medium,35,87
+1770, male ,17,4,150,7,Y,yes,Yes,,67,46
+1309,Female,-1,18,100,9,Yes, no ,Yes,Low,63,85
+1662,Male,-1,6,,3, yes , no ,Yes,Low,33,120
+1131, male ,22,2,,9,No,Yes,No,High,69,83
+1664,MALE,20,7,95,7, yes ,No,,Medium,35,95
+1872,Male,,5,80,6, yes ,Yes,,,87,42
+1100,MALE,35,4,150,,Yes,yes,yes,High,86,82
+1373,Male,21,5,40,7, yes ,yes,, low ,64,37
+1088,,-1,3,55,7,NO,yes,No,High,89,42
+1459,MALE,18,1,55,5,Yes,yes,Yes,High,42,35
+1331,,21,7,55,2, yes ,No,No,Low,32,69
+1215,Male,17,6,85,2,,No,Yes, low ,96,54
+1467,Male,20,12,70,6,NO,Y,Yes,,68,75
+1122,Male,21,2,75,3,Y,yes,No,High,97,77
+1615,MALE,22,9,40,3,NO,yes,yes, low ,45,86
+1021,MALE,22,8,,8,NO,Y,No, low ,68,65
+1701,,17,8,95,5,Yes, no ,yes,HIGH,93,57
+1072,,19,3,55,7,Y,yes,yes, low ,73,53
+1107, male ,19,9,50,5, yes ,Y,yes, low ,85,100
+1271, male ,18,9,80,, yes ,No,yes,High,52,44
+1861,FEMALE,21,1,110,3, yes , no ,No,Low,49,88
